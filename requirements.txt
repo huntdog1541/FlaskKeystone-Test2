@@ -1,2 +1,2 @@
 flask
-keystone==0.9.1-3-local
+keystone_engine==0.9.1-3-local
